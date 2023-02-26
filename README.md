@@ -1,16 +1,13 @@
 <h1 align="center">Telegram File Stream Bot</h1>
 <p align="center">
-  <a href="https://github.com/P-Phreak/Pyro-FileStreamBot">
-    <img src="https://socialify.git.ci/P-Phreak/Pyro-FileStreamBot/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&logo=https%3A%2F%2Fwww.flaticon.com%2Fpremium-icon%2Ficons%2Fsvg%2F2321%2F2321089.svg&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark" alt="Cover Image" width="650">
-  </a>
   <p align="center">
     A Telegram bot to stream files to web
     <br />
     <a href="https://telegram.dog/TeleRoid_File2Link_Bot"><strong>Demo Bot »</strong></a>
     <br />
-    <a href="https://github.com/PredatorHackerzZ/TG-File2Link/issues">Report a Bug</a>
+    <a href="https://github.com/ShuhaibNC/FastSeed/issues">Report a Bug</a>
     |
-    <a href="https://github.com/PredatorHackerzZ/TG-File2Link/issues">Request Feature</a>
+    <a href="https://github.com/ShuhaibNC/FastSeed/issues">Request Feature</a>
   </p>
 </p>
 
@@ -47,7 +44,7 @@
 ## About This Bot
 
 <p align="center">
-    <a href="https://github.com/PredatorHackerzZ/TG-File2Link">
+    <a href="https://github.com/ShuhaibNC/FastSeed">
         <img src="https://www.flaticon.com/premium-icon/icons/svg/2626/2626281.svg" height="100" width="100" alt="Telegram Logo">
     </a>
 </p>
@@ -57,7 +54,7 @@
 
 ### Original Repository
 
-The main working part was taken from [Megatron](https://github.com/eyaadh/megadlbot_oss) and thanks to [eyaadh](https://github.com/eyaadh) for his awesome project.
+The main working part was taken from [Megatron](https://github.com/ShuhaibNC/megadlbot_oss) and thanks to [eyaadh](https://github.com/eyaadh) for his awesome project.
 
 ## How to make your own
 
@@ -74,7 +71,7 @@ then goto the <a href="#mandatory-vars">variables tab</a> for more info on setti
 ### Host it on VPS or Locally
 
 ```sh
-git clone https://github.com/MrAbhi2k3/Pyro-FileStreamBot
+git clone https://github.com/ShuhaibNC/Pyro-FileStreamBot
 cd TG-FileStreamBot
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
